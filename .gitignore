@@ -1,0 +1,18 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+publish/
+installer/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Installer output
+*.exe
+*.msi
+
+# OS/editor
+.DS_Store
+Thumbs.db
